@@ -1,0 +1,229 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  31 OCT 2021 16:06
+entering extended mode
+**"./Clement Presentation.tex"
+("Clement Presentation.tex"
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/base\article.
+cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.c
+lo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
+.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count185
+\l__pdf_internal_box=\box47
+)
+
+LaTeX Warning: Unused global option(s):
+    [[12pt].
+
+("Clement Presentation.aux")
+\openout1 = `"Clement Presentation.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
+upp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count186
+\scratchdimen=\dimen141
+\scratchbox=\box48
+\nofMPsegments=\count187
+\nofMParguments=\count188
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count189
+\MPscratchDim=\dimen142
+\MPnumerator=\count190
+\makeMPintoPDFobject=\count191
+\everyMPtoPDFconversion=\toks17
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
+epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+ [1
+
+{C:/Users/CLEMENT OBIEKE/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<pics/Jicon.png, id=8, 321.2pt x 321.2pt>
+File: pics/Jicon.png Graphic file (type png)
+<use pics/Jicon.png>
+Package pdftex.def Info: pics/Jicon.png  used on input line 11.
+(pdftex.def)             Requested size: 34.5021pt x 34.49892pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+ [] \OT1/cmr/bx/n/12 James Gosling de-signed the
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 14--15
+\OT1/cmr/bx/n/12 Gosling, Patrick Naughton and
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 14--15
+\OT1/cmr/bx/n/12 Mike Sheri-dan started the cre-
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 15.
+<pics/James.jpg, id=9, 250.9375pt x 250.9375pt>
+File: pics/James.jpg Graphic file (type jpg)
+<use pics/James.jpg>
+Package pdftex.def Info: pics/James.jpg  used on input line 17.
+(pdftex.def)             Requested size: 134.54979pt x 134.55463pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 19.
+[2 <./pics/Jicon.png> <./pics/James.jpg>] [3]
+<pics/Plogo.png, id=17, 314.17375pt x 161.60374pt>
+File: pics/Plogo.png Graphic file (type png)
+<use pics/Plogo.png>
+Package pdftex.def Info: pics/Plogo.png  used on input line 49.
+(pdftex.def)             Requested size: 34.5021pt x 17.74687pt.
+<pics/Pimage.jpg, id=18, 301.125pt x 168.63pt>
+File: pics/Pimage.jpg Graphic file (type jpg)
+<use pics/Pimage.jpg>
+Package pdftex.def Info: pics/Pimage.jpg  used on input line 55.
+(pdftex.def)             Requested size: 134.54979pt x 75.35016pt.
+ [4 <./pics/Plogo.png> <./pics/Pimage.jpg>]
+<pics/Clogo.png, id=23, 602.25pt x 602.25pt>
+File: pics/Clogo.png Graphic file (type png)
+<use pics/Clogo.png>
+Package pdftex.def Info: pics/Clogo.png  used on input line 86.
+(pdftex.def)             Requested size: 34.5021pt x 34.49768pt.
+<pics/Anders.jpg, id=24, 803.0pt x 1095.09125pt>
+File: pics/Anders.jpg Graphic file (type jpg)
+<use pics/Anders.jpg>
+Package pdftex.def Info: pics/Anders.jpg  used on input line 94.
+(pdftex.def)             Requested size: 134.54979pt x 183.48949pt.
+ [5 <./pics/Clogo.png (PNG copy)> <./pics/Anders.jpg>]
+<pics/C+logo.png, id=28, 1204.5pt x 1354.05875pt>
+File: pics/C+logo.png Graphic file (type png)
+<use pics/C+logo.png>
+Package pdftex.def Info: pics/C+logo.png  used on input line 130.
+(pdftex.def)             Requested size: 34.5021pt x 38.78116pt.
+
+Underfull \hbox (badness 7888) in paragraph at lines 133--134
+ [] \OT1/cmr/m/n/12 C++ was de-vel-oped by Bjarne
+ []
+
+<pics/stroustrup_500.png, id=30, 301.125pt x 301.125pt>
+File: pics/stroustrup_500.png Graphic file (type png)
+<use pics/stroustrup_500.png>
+Package pdftex.def Info: pics/stroustrup_500.png  used on input line 136.
+(pdftex.def)             Requested size: 134.54979pt x 134.55386pt.
+[6 <./pics/C+logo.png> <./pics/stroustrup_500.png>] [7]
+<pics/html5_logo.png, id=40, 1284.8pt x 1284.8pt>
+File: pics/html5_logo.png Graphic file (type png)
+<use pics/html5_logo.png>
+Package pdftex.def Info: pics/html5_logo.png  used on input line 177.
+(pdftex.def)             Requested size: 34.5021pt x 34.4842pt.
+<pics/tbl.jpeg, id=41, 289.08pt x 192.2382pt>
+File: pics/tbl.jpeg Graphic file (type jpg)
+<use pics/tbl.jpeg>
+Package pdftex.def Info: pics/tbl.jpeg  used on input line 183.
+(pdftex.def)             Requested size: 134.54979pt x 89.4749pt.
+
+
+! Package inputenc Error: Unicode character  (U+000B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 ... HyperText Mark-up language was chosen.
+                                                  	
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[8 <./pics/html5_logo.png> <./pics/tbl.jpeg>] [9] ("Clement Presentation.aux") 
+) 
+Here is how much of TeX's memory you used:
+ 1256 strings out of 479697
+ 19913 string characters out of 2862819
+ 290041 words of memory out of 3000000
+ 18375 multiletter control sequences out of 15000+200000
+ 408607 words of font info for 44 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,6n,72p,424b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/CLEMENT OBIEKE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Users/CLEMENT OBIEKE/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/CLEMENT OBIEKE/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/CLEMENT OBIEKE/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "Clement Presentation.pdf" (9 pages, 817346 bytes).
+PDF statistics:
+ 63 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
