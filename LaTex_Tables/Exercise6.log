@@ -1,0 +1,365 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  4 NOV 2021 16:57
+entering extended mode
+**./Exercise6.tex
+(Exercise6.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/base\article.
+cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.c
+lo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor
+.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colo
+rtbl.sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.s
+ty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box47
+\extrarowheight=\dimen140
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box48
+)
+\everycr=\toks16
+\minrowclearance=\skip51
+)
+\rownum=\count185
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siuni
+tx.sty"
+Package: siunitx 2021-10-26 v3.0.34 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen141
+\l__siunitx_angle_marker_box=\box49
+\l__siunitx_angle_unit_box=\box50
+\l__siunitx_compound_count_int=\count186
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/translations\
+translations.sty"
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoo
+lbox.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count187
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\
+pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\i
+nfwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex
+.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltx
+cmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count188
+\l__siunitx_number_min_decimal_int=\count189
+\l__siunitx_number_min_integer_int=\count190
+\l__siunitx_number_round_precision_int=\count191
+\l__siunitx_number_group_minimum_int=\count192
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amste
+xt.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsge
+n.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen142
+))
+\l__siunitx_table_tmp_box=\box51
+\l__siunitx_table_tmp_dim=\dimen143
+\l__siunitx_table_column_width_dim=\dimen144
+\l__siunitx_table_integer_box=\box52
+\l__siunitx_table_decimal_box=\box53
+\l__siunitx_table_before_box=\box54
+\l__siunitx_table_after_box=\box55
+\l__siunitx_table_before_dim=\dimen145
+\l__siunitx_table_carry_dim=\dimen146
+\l__siunitx_unit_tmp_int=\count193
+\l__siunitx_unit_position_int=\count194
+\l__siunitx_unit_total_int=\count195
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3
+keys2e\l3keys2e.sty"
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl
+3.sty"
+Package: expl3 2020-12-07 L3 programming layer (loader) 
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count196
+\l__pdf_internal_box=\box56
+))
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+
+LaTeX3 Info: Defining command \DeclareSIPower with sig. '+m+mm' on line 7298.
+
+
+LaTeX3 Info: Defining command \DeclareSIPrefix with sig. '+mmm' on line 7302.
+
+
+LaTeX3 Info: Defining command \DeclareSIQualifier with sig. '+mm' on line
+(LaTeX3)     7306.
+
+
+LaTeX3 Info: Defining command \DeclareSIUnit with sig. 'o+mm' on line 7312.
+
+
+LaTeX3 Info: Defining command \qty with sig. 'O{}m>{\TrimSpaces }m' on line
+(LaTeX3)     7332.
+
+
+LaTeX3 Info: Defining command \ang with sig. 'O{}>{\SplitArgument {2}{;}}m' on
+(LaTeX3)     line 7340.
+
+
+LaTeX3 Info: Defining command \num with sig. 'O{}m' on line 7349.
+
+
+LaTeX3 Info: Defining command \unit with sig. 'O{}>{\TrimSpaces }m' on line
+(LaTeX3)     7370.
+
+
+LaTeX3 Info: Defining command \qtylist with sig. 'O{}>{\SplitList
+(LaTeX3)     {;}}m>{\TrimSpaces }m' on line 7380.
+
+
+LaTeX3 Info: Defining command \numlist with sig. 'O{}>{\SplitList {;}}m' on
+(LaTeX3)     line 7388.
+
+
+LaTeX3 Info: Defining command \qtyproduct with sig. 'O{}>{\SplitList
+(LaTeX3)     {x}}m>{\TrimSpaces }m' on line 7398.
+
+
+LaTeX3 Info: Defining command \numproduct with sig. 'O{}>{\SplitList
+(LaTeX3)     {x}}>{\TrimSpaces }m' on line 7407.
+
+
+LaTeX3 Info: Defining command \qtyrange with sig. 'O{}mm>{\TrimSpaces }m' on
+(LaTeX3)     line 7416.
+
+
+LaTeX3 Info: Defining command \numrange with sig. 'O{}mm' on line 7424.
+
+
+LaTeX3 Info: Defining command \complexnum with sig. 'O{}m' on line 7432.
+
+
+LaTeX3 Info: Defining command \complexqty with sig. 'O{}mm' on line 7441.
+
+
+LaTeX3 Info: Defining command \tablenum with sig. 'O{}m' on line 7451.
+
+
+LaTeX3 Info: Defining command \sisetup with sig. 'm' on line 7453.
+
+
+LaTeX3 Info: Defining command \qty (pdfstring context) with sig. 'omm' on line
+(LaTeX3)     7523.
+
+
+LaTeX3 Info: Defining command \ang (pdfstring context) with sig. 'm' on line
+(LaTeX3)     7524.
+
+
+LaTeX3 Info: Defining command \num (pdfstring context) with sig. 'om' on line
+(LaTeX3)     7525.
+
+
+LaTeX3 Info: Defining command \unit (pdfstring context) with sig. 'om' on line
+(LaTeX3)     7526.
+
+
+LaTeX3 Info: Defining command \numlist (pdfstring context) with sig. 'om' on
+(LaTeX3)     line 7533.
+
+
+LaTeX3 Info: Defining command \qtylist (pdfstring context) with sig. 'omm' on
+(LaTeX3)     line 7540.
+
+
+LaTeX3 Info: Defining command \numproduct (pdfstring context) with sig. 'om'
+(LaTeX3)     on line 7541.
+
+
+LaTeX3 Info: Defining command \qtyproduct (pdfstring context) with sig. 'omm'
+(LaTeX3)     on line 7542.
+
+
+LaTeX3 Info: Defining command \numrange (pdfstring context) with sig. 'omm' on
+(LaTeX3)     line 7544.
+
+
+LaTeX3 Info: Defining command \qtyrange (pdfstring context) with sig. 'ommm'
+(LaTeX3)     on line 7546.
+
+
+LaTeX3 Info: Defining command \si (pdfstring context) with sig. 'om' on line
+(LaTeX3)     7547.
+
+
+LaTeX3 Info: Defining command \SI (pdfstring context) with sig. 'omO{}m' on
+(LaTeX3)     line 7548.
+
+
+LaTeX3 Info: Defining command \SIlist (pdfstring context) with sig. 'omm' on
+(LaTeX3)     line 7555.
+
+
+LaTeX3 Info: Defining command \SIrange (pdfstring context) with sig. 'ommm' on
+(LaTeX3)     line 7557.
+
+
+LaTeX3 Info: Defining command \DeclareBinaryPrefix with sig. '+mmm' on line
+(LaTeX3)     7656.
+
+
+LaTeX3 Info: Defining command \DeclareSIPrePower with sig. '+mm' on line 7661.
+
+
+LaTeX3 Info: Defining command \DeclareSIPostPower with sig. '+mm' on line
+(LaTeX3)     7666.
+
+
+LaTeX3 Info: Defining command \si with sig. 'O{}m' on line 7675.
+
+
+LaTeX3 Info: Defining command \SI with sig. 'O{}mom' on line 7689.
+
+
+LaTeX3 Info: Defining command \SIlist with sig. 'O{}>{\SplitList
+(LaTeX3)     {;}}m>{\TrimSpaces }m' on line 7699.
+
+
+LaTeX3 Info: Defining command \SIrange with sig. 'O{}mm>{\TrimSpaces }m' on
+(LaTeX3)     line 7708.
+
+
+LaTeX3 Info: Defining command \SendSettingsToPgf with sig. '' on line 7895.
+
+)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 10.
+ (Exercise6.aux)
+\openout1 = `Exercise6.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
+upp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen147
+\scratchbox=\box57
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen148
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks19
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/translations/
+dicts\translations-basic-dictionary-english.trsl"
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+ [1{C:/Users/CLEMENT OBIEKE/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (Ex
+ercise6.aux) ) 
+Here is how much of TeX's memory you used:
+ 5454 strings out of 479697
+ 133910 string characters out of 2862819
+ 382856 words of memory out of 3000000
+ 22559 multiletter control sequences out of 15000+200000
+ 403738 words of font info for 28 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 81i,12n,86p,228b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/CLEMENT OBIEKE/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx10.pfb><C:/Users/CLEMENT OBIEKE/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/CLEMENT OBIEKE/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Exercise6.pdf (1 page, 34786 bytes).
+PDF statistics:
+ 18 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

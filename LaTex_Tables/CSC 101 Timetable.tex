@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage[table]{xcolor}
+\usepackage{rotating}
+
+\newcolumntype{a}{>{\columncolor{red!20}}l}
+\newcolumntype{b}{>{\columncolor{orange!30}}c}
+\newcolumntype{d}{>{\columncolor{yellow!40}}c}
+\newcolumntype{e}{>{\columncolor{green!30}}c}
+\newcolumntype{f}{>{\columncolor{blue!20}}c}
+\newcolumntype{i}{>{\columncolor{pink!20}}c}
+
+\begin{document}
+	\begin{sidewaystable}[h!]
+		\begin{center}
+		\caption{CSC 101 TIme Table}
+		\label{tab:table 1}
+		\begin{tabular}{|e|i|a|b|d|d|b|a|i|}
+			\hline
+			\textbf{Course Code}&\textbf{Status}&\textbf{Unit}
+			&\textbf{Time}& \textbf{Monday}&\textbf{Tuesday}&\textbf{Wednesday}&\textbf{Thursday}&\textbf{Friday}\\
+			GST 101&C&2&9-10AM&PHY 101&MTH 101&-&-&-\\
+			GST 103&C&2&10-11AM&PHY 101&MTH 101&MTH 103&-&-\\
+			GST 108&C&2&11-12AM&CHM 101&GST 103&MTH 103&GST 108&GST 101\\
+			CHM 101&C&2&12-1PM&CHM 101&GST 103&PHY 101&GST 108&GST 101\\
+			CHM 107&C&2&1-2:30AM&	\rowcolor{white!100}BREAK&-&-&-&\\
+			MTH 101&C&2&2:30-3:30PM&-&CHM 107&CHM 101&CSC101&PHY 107\\
+			MTH 103&C&2&3:30-4:30PM&MTH 101&CHM 107&-&CSC 101&PHY 107\\
+			PHY 101&C&2&4:30-5:30PM&-&CHM107&-&CSC 101&PHY 107\\
+			PHY 107&C&2&5:30-6:30PM&-&-&-&-&-\\
+			CSC 101&C&2&6:30-7:30PM&-&-&-&-&-\\
+			\hline
+		\end{tabular}
+		\end{center}
+	\end{sidewaystable}
+\end{document}

@@ -1,0 +1,39 @@
+\documentclass{article}
+ 
+\usepackage[table]{xcolor}
+
+\newcolumntype{a}{>{\columncolor{red!24}}l}
+\newcolumntype{b}{>{\columncolor{orange!20}}c}
+\newcolumntype{d}{>{\columncolor{yellow!24}}c}
+\newcolumntype{e}{>{\columncolor{green!20}}c}
+\newcolumntype{f}{>{\columncolor{blue!24}}c}
+
+\begin{document}
+\begin{table}[h!]
+	\centering
+	\caption{First Year, First Semester}
+	\label{tab:table1}
+	
+	\begin{tabular}{|a|b|d|e|f|}
+		\hline
+		\rowcolor{orange!30}\textbf{Course Code}& \textbf{Credit Unit}&\textbf{Letter Grade}&\textbf{Grade Point}&\textbf{Quality Point(QP)}\\
+		-&(CU)&(LG)&(GP)&(CU x QP)\\
+		\hline
+	
+		CSC 101&3&A&5&15\\
+		MTH 101&3&B&4&12\\
+		CHM 101&3&C&3&9\\
+		PHY 107&1&B&4&4\\
+		GST 103&2&A&5&10\\
+		GST 108&2&D&2&4\\
+		\cellcolor{purple!30}GPA(QP/CU)&&&&\cellcolor{purple!30}3.8557\\
+		
+		\hline
+			
+		
+		
+		
+	\end{tabular}
+	
+\end{table}
+\end{document}

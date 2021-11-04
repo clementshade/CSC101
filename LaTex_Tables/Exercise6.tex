@@ -1,0 +1,27 @@
+\documentclass{article}
+
+\usepackage[table]{xcolor}
+\usepackage{siunitx}
+\sisetup{
+		round-mode			=	places,
+		round-precision		=	3, 
+}
+
+\begin{document}
+\begin{table}
+		
+
+	\centering
+	\caption{Table with colored cells}
+	\label{tab:table1}
+	\begin{tabular}{|l|S|S|c|}
+		\hline
+		\textbf{S/N} & \textbf{Amount A} & \textbf{Amount B} & \textbf{Amount C}\\
+		\hline
+		\cellcolor{blue!25}1&4210.1&33.454&233.114\\
+		\cellcolor{green!25}2&110.1&134.56777&3.556\\
+		\cellcolor{red!25}3&54.113231&1456.55&13.177\\
+		\hline
+	\end{tabular}
+\end{table}
+\end{document}
