@@ -1,0 +1,217 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  17 NOV 2021 21:51
+entering extended mode
+**"./Gst 108 bibtex.tex"
+("Gst 108 bibtex.tex"
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/base\article.
+cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.c
+lo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
+.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count185
+\l__pdf_internal_box=\box47
+) ("Gst 108 bibtex.aux")
+\openout1 = `"Gst 108 bibtex.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
+upp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count186
+\scratchdimen=\dimen141
+\scratchbox=\box48
+\nofMPsegments=\count187
+\nofMParguments=\count188
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count189
+\MPscratchDim=\dimen142
+\MPnumerator=\count190
+\makeMPintoPDFobject=\count191
+\everyMPtoPDFconversion=\toks17
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
+epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ [1
+
+{C:/Users/CLEMENT OBIEKE/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+<and.png, id=13, 291.0875pt x 174.6525pt>
+File: and.png Graphic file (type png)
+<use and.png>
+Package pdftex.def Info: and.png  used on input line 45.
+(pdftex.def)             Requested size: 103.50105pt x 62.09933pt.
+<or.jpg, id=14, 185.19188pt x 128.73094pt>
+File: or.jpg Graphic file (type jpg)
+<use or.jpg>
+Package pdftex.def Info: or.jpg  used on input line 46.
+(pdftex.def)             Requested size: 103.50105pt x 71.94542pt.
+<not.png, id=15, 305.14pt x 158.5925pt>
+File: not.png Graphic file (type png)
+<use not.png>
+Package pdftex.def Info: not.png  used on input line 47.
+(pdftex.def)             Requested size: 127.64832pt x 66.3446pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 48.
+<nand.jpg, id=16, 27.90347pt x 16.74208pt>
+File: nand.jpg Graphic file (type jpg)
+<use nand.jpg>
+Package pdftex.def Info: nand.jpg  used on input line 52.
+(pdftex.def)             Requested size: 68.99895pt x 41.40648pt.
+<nor.png, id=17, 250.9375pt x 250.9375pt>
+File: nor.png Graphic file (type png)
+<use nor.png>
+Package pdftex.def Info: nor.png  used on input line 53.
+(pdftex.def)             Requested size: 103.5015pt x 82.49564pt.
+<xor.jpg, id=19, 485.815pt x 361.35pt>
+File: xor.jpg Graphic file (type jpg)
+<use xor.jpg>
+Package pdftex.def Info: xor.jpg  used on input line 54.
+(pdftex.def)             Requested size: 68.99895pt x 51.31647pt.
+<xnor.png, id=20, 397.485pt x 200.75pt>
+File: xnor.png Graphic file (type png)
+<use xnor.png>
+Package pdftex.def Info: xnor.png  used on input line 55.
+(pdftex.def)             Requested size: 68.99895pt x 34.8469pt.
+File: nand.jpg Graphic file (type jpg)
+<use nand.jpg>
+Package pdftex.def Info: nand.jpg  used on input line 60.
+(pdftex.def)             Requested size: 124.20021pt x 74.53316pt.
+File: nor.png Graphic file (type png)
+<use nor.png>
+Package pdftex.def Info: nor.png  used on input line 61.
+(pdftex.def)             Requested size: 138.00455pt x 126.49843pt.
+File: and.png Graphic file (type png)
+<use and.png>
+Package pdftex.def Info: and.png  used on input line 65.
+(pdftex.def)             Requested size: 291.08678pt x 174.65207pt.
+ [3 <./and.png> <./or.jpg> <./not.png> <./nand.jpg> <./nor.png> <./xor.jpg> <./
+xnor.png>] [4]
+File: or.jpg Graphic file (type jpg)
+<use or.jpg>
+Package pdftex.def Info: or.jpg  used on input line 84.
+(pdftex.def)             Requested size: 185.1914pt x 128.7306pt.
+ [5]
+File: not.png Graphic file (type png)
+<use not.png>
+Package pdftex.def Info: not.png  used on input line 103.
+(pdftex.def)             Requested size: 305.13924pt x 158.59209pt.
+ [6]
+File: nor.png Graphic file (type png)
+<use nor.png>
+Package pdftex.def Info: nor.png  used on input line 120.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+ [7]
+File: nand.jpg Graphic file (type jpg)
+<use nand.jpg>
+Package pdftex.def Info: nand.jpg  used on input line 140.
+(pdftex.def)             Requested size: 241.49895pt x 144.96564pt.
+ [8]
+File: xor.jpg Graphic file (type jpg)
+<use xor.jpg>
+Package pdftex.def Info: xor.jpg  used on input line 159.
+(pdftex.def)             Requested size: 276.00105pt x 205.28793pt.
+ [9]
+File: xnor.png Graphic file (type png)
+<use xnor.png>
+Package pdftex.def Info: xnor.png  used on input line 178.
+(pdftex.def)             Requested size: 276.00105pt x 139.39677pt.
+ [10] [11]
+("Gst 108 bibtex.bbl") [12] ("Gst 108 bibtex.aux") ) 
+Here is how much of TeX's memory you used:
+ 1259 strings out of 479697
+ 19465 string characters out of 2862819
+ 288002 words of memory out of 3000000
+ 18385 multiletter control sequences out of 15000+200000
+ 408366 words of font info for 43 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,8n,72p,292b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\CLEMENT OBIEKE\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/CL
+EMENT OBIEKE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx1
+0.pfb><C:/Users/CLEMENT OBIEKE/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Users/CLEMENT OBIEKE/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/CLEMENT OBIEKE/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/CLEMENT OBI
+EKE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/
+Users/CLEMENT OBIEKE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmti10.pfb>
+Output written on "Gst 108 bibtex.pdf" (12 pages, 183645 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

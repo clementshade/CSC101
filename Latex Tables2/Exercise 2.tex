@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{array}
+
+\begin{document}
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|c|m{5cm}|m{5cm}}
+		\hline
+		my.github &Advantages& Disadvantages\\
+		\hline
+		\begin{minipage}{0.4\linewidth}
+			\includegraphics[width=\linewidth, height= 40mm]{git.png}
+		\end{minipage}
+		&
+			\begin{itemize}
+				\item Easy to contribute to your open source projects
+				\item documentation
+				\item Showcase your work $\ldots$
+				\item Track changes in your code across versions
+				\item Integration options
+			\end{itemize}
+		&
+			\begin{itemize}
+				\item Continuous intergration leads to problems
+				\item Not an easy tool for beginners.
+				\item Working wth larger files can be tricky
+			\end{itemize}
+		\\
+		\hline
+		\end{tabular}
+	\caption{Github Analysis}
+	\label{tbl:mygithub}
+	\end{table}
+\end{document}
+	

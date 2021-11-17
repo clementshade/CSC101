@@ -1,0 +1,45 @@
+
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\usepackage{pgfplotstable}
+
+\sisetup{
+	round-mode			=places,
+	round-precision 	=4,
+}
+
+\begin{document}
+	\begin{table}[h!]
+		\centering
+		\caption{Robot conversation}
+		\label{table1}
+		\pgfplotstabletypeset[
+		multicolumn names,
+		col sep=comma,
+		display columns/0/.style={
+			column name=$source$,
+			column type ={S},string type},
+		display columns/1/.style={
+			column name=$num1$,
+			column type ={S},string type},
+		display columns/2/.style={
+			column name=$num2$,
+			column type ={S},string type},
+		display columns/3/.style={
+			column name=$num3$,
+			column type ={S},string type},
+		display columns/4/.style={
+			column name=$num4$,
+			column type ={S},string type},
+		display columns/5/.style={
+			column name=$num5$,
+			column type ={S},string type},
+		every head row/.style={
+			before row ={\toprule},
+			after row={\midrule}
+		},
+		every last row/.style ={after row=\bottomrule},
+		]{cor.csv}
+	\end{table}
+\end{document}
