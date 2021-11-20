@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  17 NOV 2021 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  18 NOV 2021 10:08
 entering extended mode
 **"./Class Project 1.tex"
 ("Class Project 1.tex"
@@ -848,7 +848,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 43.
 
-Overfull \hbox (140.33395pt too wide) in paragraph at lines 43--44
+Overfull \hbox (126.58855pt too wide) in paragraph at lines 43--44
  [][] 
  []
 
@@ -858,8 +858,8 @@ Overfull \hbox (140.33395pt too wide) in paragraph at lines 43--44
 ("Class Project 1.aux") ) 
 Here is how much of TeX's memory you used:
  26070 strings out of 479697
- 716884 string characters out of 2862819
- 1079674 words of memory out of 3000000
+ 716940 string characters out of 2862819
+ 1081674 words of memory out of 3000000
  42798 multiletter control sequences out of 15000+200000
  403430 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -867,7 +867,7 @@ Here is how much of TeX's memory you used:
 <C:/Users/CLEMENT OBIEKE/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/CLEMENT OBIEKE/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on "Class Project 1.pdf" (1 page, 25827 bytes).
+Output written on "Class Project 1.pdf" (1 page, 25347 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

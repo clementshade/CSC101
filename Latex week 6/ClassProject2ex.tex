@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage[a4paper,total={6in, 12in}]{geometry}
+\usepackage{booktabs}
+\usepackage{pgfplotstable}
+
+\begin{document}
+	\begin{table}[t!]
+	
+			\caption{Artist}
+			\label{tab:table}
+			\pgfplotstabletypeset[
+			multicolumn names,
+			col sep=comma,
+			display columns/0/.style={
+				column name=$ID$,
+				column type={c},string type},
+			display columns/1/.style={
+				column name=$name$,
+				column type={c},string type},
+			display columns/2/.style={
+				column name=$years$,
+				column type={c},string type},
+			display columns/3/.style={
+				column name=$genre$,
+				column type={c},string type},
+			display columns/4/.style={
+				column name=$nationality$,
+				column type={c},string type},
+			display columns/5/.style={
+				column name=$painting$,
+				column type={c},string type},
+			every head row={\toprule},after row={\midrule},
+			every last row/.style={after row=\bottomrule},
+			]{artists.csv}
+	
+	\end{table}
+\end{document}

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  18 NOV 2021 09:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  20 NOV 2021 19:27
 entering extended mode
-**"./Exercise 5.tex"
-("Exercise 5.tex"
+**./ClassProject2ex.tex
+(ClassProject2ex.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-07> xparse <2020-03-03>
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/base\article.
@@ -24,282 +24,64 @@ File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\book
-tabs.sty"
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen139
-\lightrulewidth=\dimen140
-\cmidrulewidth=\dimen141
-\belowrulesep=\dimen142
-\belowbottomsep=\dimen143
-\aboverulesep=\dimen144
-\abovetopsep=\dimen145
-\cmidrulesep=\dimen146
-\cmidrulekern=\dimen147
-\defaultaddspace=\dimen148
-\@cmidla=\count185
-\@cmidlb=\count186
-\@aboverulesep=\dimen149
-\@belowrulesep=\dimen150
-\@thisruleclass=\count187
-\@lastruleclass=\count188
-\@thisrulewidth=\dimen151
-)
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siuni
-tx.sty"
-Package: siunitx 2021-10-26 v3.0.34 A comprehensive (SI) units package
-\l__siunitx_angle_tmp_dim=\dimen152
-\l__siunitx_angle_marker_box=\box47
-\l__siunitx_angle_unit_box=\box48
-\l__siunitx_compound_count_int=\count189
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/translations\
-translations.sty"
-Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
-s (CN)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvte
+x.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoo
-lbox.sty"
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count190
-)
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\
-pdftexcmds.sty"
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\i
-nfwarerr.sty"
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex
 .sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-)
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltx
-cmds.sty"
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
 ))
-\l__siunitx_number_exponent_fixed_int=\count191
-\l__siunitx_number_min_decimal_int=\count192
-\l__siunitx_number_min_integer_int=\count193
-\l__siunitx_number_round_precision_int=\count194
-\l__siunitx_number_group_minimum_int=\count195
+\Gm@cnth=\count185
+\Gm@cntv=\count186
+\c@Gm@tempcnt=\count187
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
 
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amste
-xt.sty"
-Package: amstext 2000/06/29 v2.01 AMS text
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.cfg")
 
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsge
-n.sty"
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
-\ex@=\dimen153
-))
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\colo
-r.sty"
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+Package geometry Warning: `tmargin' and `bmargin' result in NEGATIVE (-22.19315
+pt).
+    `height' should be shortened in length.
 
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
-color.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 147.
-
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
-pdftex.def"
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-))
-\l__siunitx_table_tmp_box=\box49
-\l__siunitx_table_tmp_dim=\dimen154
-\l__siunitx_table_column_width_dim=\dimen155
-\l__siunitx_table_integer_box=\box50
-\l__siunitx_table_decimal_box=\box51
-\l__siunitx_table_before_box=\box52
-\l__siunitx_table_after_box=\box53
-\l__siunitx_table_before_dim=\dimen156
-\l__siunitx_table_carry_dim=\dimen157
-\l__siunitx_unit_tmp_int=\count196
-\l__siunitx_unit_position_int=\count197
-\l__siunitx_unit_total_int=\count198
-
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3
-keys2e\l3keys2e.sty"
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl
-3.sty"
-Package: expl3 2020-12-07 L3 programming layer (loader) 
-
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
-ackend-pdftex.def"
-File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count199
-\l__pdf_internal_box=\box54
-))
-Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
-)
-
-LaTeX3 Info: Defining command \DeclareSIPower with sig. '+m+mm' on line 7298.
-
-
-LaTeX3 Info: Defining command \DeclareSIPrefix with sig. '+mmm' on line 7302.
-
-
-LaTeX3 Info: Defining command \DeclareSIQualifier with sig. '+mm' on line
-(LaTeX3)     7306.
-
-
-LaTeX3 Info: Defining command \DeclareSIUnit with sig. 'o+mm' on line 7312.
-
-
-LaTeX3 Info: Defining command \qty with sig. 'O{}m>{\TrimSpaces }m' on line
-(LaTeX3)     7332.
-
-
-LaTeX3 Info: Defining command \ang with sig. 'O{}>{\SplitArgument {2}{;}}m' on
-(LaTeX3)     line 7340.
-
-
-LaTeX3 Info: Defining command \num with sig. 'O{}m' on line 7349.
-
-
-LaTeX3 Info: Defining command \unit with sig. 'O{}>{\TrimSpaces }m' on line
-(LaTeX3)     7370.
-
-
-LaTeX3 Info: Defining command \qtylist with sig. 'O{}>{\SplitList
-(LaTeX3)     {;}}m>{\TrimSpaces }m' on line 7380.
-
-
-LaTeX3 Info: Defining command \numlist with sig. 'O{}>{\SplitList {;}}m' on
-(LaTeX3)     line 7388.
-
-
-LaTeX3 Info: Defining command \qtyproduct with sig. 'O{}>{\SplitList
-(LaTeX3)     {x}}m>{\TrimSpaces }m' on line 7398.
-
-
-LaTeX3 Info: Defining command \numproduct with sig. 'O{}>{\SplitList
-(LaTeX3)     {x}}>{\TrimSpaces }m' on line 7407.
-
-
-LaTeX3 Info: Defining command \qtyrange with sig. 'O{}mm>{\TrimSpaces }m' on
-(LaTeX3)     line 7416.
-
-
-LaTeX3 Info: Defining command \numrange with sig. 'O{}mm' on line 7424.
-
-
-LaTeX3 Info: Defining command \complexnum with sig. 'O{}m' on line 7432.
-
-
-LaTeX3 Info: Defining command \complexqty with sig. 'O{}mm' on line 7441.
-
-
-LaTeX3 Info: Defining command \tablenum with sig. 'O{}m' on line 7451.
-
-
-LaTeX3 Info: Defining command \sisetup with sig. 'm' on line 7453.
-
-
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.s
-ty"
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen158
-\ar@mcellbox=\box55
-\extrarowheight=\dimen159
-\NC@list=\toks16
-\extratabsurround=\skip49
-\backup@length=\skip50
-\ar@cellbox=\box56
-)
-
-LaTeX3 Info: Defining command \qty (pdfstring context) with sig. 'omm' on line
-(LaTeX3)     7523.
-
-
-LaTeX3 Info: Defining command \ang (pdfstring context) with sig. 'm' on line
-(LaTeX3)     7524.
-
-
-LaTeX3 Info: Defining command \num (pdfstring context) with sig. 'om' on line
-(LaTeX3)     7525.
-
-
-LaTeX3 Info: Defining command \unit (pdfstring context) with sig. 'om' on line
-(LaTeX3)     7526.
-
-
-LaTeX3 Info: Defining command \numlist (pdfstring context) with sig. 'om' on
-(LaTeX3)     line 7533.
-
-
-LaTeX3 Info: Defining command \qtylist (pdfstring context) with sig. 'omm' on
-(LaTeX3)     line 7540.
-
-
-LaTeX3 Info: Defining command \numproduct (pdfstring context) with sig. 'om'
-(LaTeX3)     on line 7541.
-
-
-LaTeX3 Info: Defining command \qtyproduct (pdfstring context) with sig. 'omm'
-(LaTeX3)     on line 7542.
-
-
-LaTeX3 Info: Defining command \numrange (pdfstring context) with sig. 'omm' on
-(LaTeX3)     line 7544.
-
-
-LaTeX3 Info: Defining command \qtyrange (pdfstring context) with sig. 'ommm'
-(LaTeX3)     on line 7546.
-
-
-LaTeX3 Info: Defining command \si (pdfstring context) with sig. 'om' on line
-(LaTeX3)     7547.
-
-
-LaTeX3 Info: Defining command \SI (pdfstring context) with sig. 'omO{}m' on
-(LaTeX3)     line 7548.
-
-
-LaTeX3 Info: Defining command \SIlist (pdfstring context) with sig. 'omm' on
-(LaTeX3)     line 7555.
-
-
-LaTeX3 Info: Defining command \SIrange (pdfstring context) with sig. 'ommm' on
-(LaTeX3)     line 7557.
-
-
-LaTeX3 Info: Defining command \DeclareBinaryPrefix with sig. '+mmm' on line
-(LaTeX3)     7656.
-
-
-LaTeX3 Info: Defining command \DeclareSIPrePower with sig. '+mm' on line 7661.
-
-
-LaTeX3 Info: Defining command \DeclareSIPostPower with sig. '+mm' on line
-(LaTeX3)     7666.
-
-
-LaTeX3 Info: Defining command \si with sig. 'O{}m' on line 7675.
-
-
-LaTeX3 Info: Defining command \SI with sig. 'O{}mom' on line 7689.
-
-
-LaTeX3 Info: Defining command \SIlist with sig. 'O{}>{\SplitList
-(LaTeX3)     {;}}m>{\TrimSpaces }m' on line 7699.
-
-
-LaTeX3 Info: Defining command \SIrange with sig. 'O{}mm>{\TrimSpaces }m' on
-(LaTeX3)     line 7708.
-
-
-LaTeX3 Info: Defining command \SendSettingsToPgf with sig. '' on line 7895.
-
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\book
+tabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count188
+\@cmidlb=\count189
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count190
+\@lastruleclass=\count191
+\@thisrulewidth=\dimen159
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfp
 lotstable.sty"
@@ -318,11 +100,6 @@ Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
 hicx.sty"
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
-al.sty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-)
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
 hics.sty"
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
@@ -336,7 +113,11 @@ graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
-)
+
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
 \Gin@req@height=\dimen160
 \Gin@req@width=\dimen161
 )
@@ -348,7 +129,7 @@ r\pgf.sty"
 \pgfrcs.sty"
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
 es\pgfutil-common.tex"
-\pgfutil@everybye=\toks18
+\pgfutil@everybye=\toks17
 \pgfutil@tempdima=\dimen162
 \pgfutil@tempdimb=\dimen163
 
@@ -356,7 +137,7 @@ es\pgfutil-common.tex"
 es\pgfutil-common-lists.tex"))
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
 es\pgfutil-latex.def"
-\pgfutil@abb=\box57
+\pgfutil@abb=\box47
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
 es\pgfrcs.code.tex"
@@ -376,12 +157,12 @@ Package: pgfsys 2020/12/01 v3.1.7a (3.1.7a)
 
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
 es\pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks19
-\pgfkeys@temptoks=\toks20
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
 
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
 es\pgfkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks21
+\pgfkeys@tmptoks=\toks20
 ))
 \pgf@x=\dimen164
 \pgf@y=\dimen165
@@ -395,14 +176,14 @@ es\pgfkeysfiltered.code.tex"
 \pgf@yd=\dimen173
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count266
-\c@pgf@countb=\count267
-\c@pgf@countc=\count268
-\c@pgf@countd=\count269
-\t@pgf@toka=\toks22
-\t@pgf@tokb=\toks23
-\t@pgf@tokc=\toks24
-\pgf@sys@id@count=\count270
+\c@pgf@counta=\count192
+\c@pgf@countb=\count193
+\c@pgf@countc=\count194
+\c@pgf@countd=\count195
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count196
 
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
 ayer\pgf.cfg"
@@ -421,8 +202,8 @@ File: pgfsys-common-pdf.def 2020/12/01 v3.1.7a (3.1.7a)
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
 ayer\pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfsyssoftpath@smallbuffer@items=\count271
-\pgfsyssoftpath@bigbuffer@items=\count272
+\pgfsyssoftpath@smallbuffer@items=\count197
+\pgfsyssoftpath@bigbuffer@items=\count198
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
 ayer\pgfsysprotocol.code.tex"
@@ -437,7 +218,6 @@ color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-LaTeX Info: Redefining \color on input line 709.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -461,11 +241,11 @@ fmathutil.code.tex")
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
 fmathparser.code.tex"
 \pgfmath@dimen=\dimen174
-\pgfmath@count=\count273
-\pgfmath@box=\box58
-\pgfmath@toks=\toks25
-\pgfmath@stack@operand=\toks26
-\pgfmath@stack@operation=\toks27
+\pgfmath@count=\count199
+\pgfmath@box=\box48
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
 fmathfunctions.code.tex"
@@ -487,7 +267,7 @@ fmathfunctions.misc.code.tex")
 fmathfunctions.integerarithmetics.code.tex")))
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
 fmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count274
+\c@pgfmathroundto@lastzeros=\count266
 ))
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
 fint.code.tex")
@@ -524,10 +304,10 @@ File: pgfcorepathusage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
 yer\pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfpic=\box59
-\pgf@hbox=\box60
-\pgf@layerbox@main=\box61
-\pgf@picture@serial@count=\count275
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count267
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
 yer\pgfcoregraphicstate.code.tex"
@@ -562,8 +342,8 @@ File: pgfcorearrows.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 yer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@max=\dimen198
-\pgf@sys@shading@range@num=\count276
-\pgf@shadingcount=\count277
+\pgf@sys@shading@range@num=\count268
+\pgf@shadingcount=\count269
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
 yer\pgfcoreimage.code.tex"
@@ -572,7 +352,7 @@ File: pgfcoreimage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
 yer\pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfexternal@startupbox=\box62
+\pgfexternal@startupbox=\box52
 ))
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
 yer\pgfcorelayers.code.tex"
@@ -593,7 +373,7 @@ File: pgfcorerdf.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
 \pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfnodeparttextbox=\box63
+\pgfnodeparttextbox=\box53
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
 \pgfmoduleplot.code.tex"
@@ -627,8 +407,8 @@ Package: pgffor 2020/12/01 v3.1.7a (3.1.7a)
 fmath.code.tex")
 \pgffor@iter=\dimen257
 \pgffor@skip=\dimen258
-\pgffor@stack=\toks28
-\pgffor@toks=\toks29
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
 ))
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
 dlayer/tikz\tikz.code.tex"
@@ -637,7 +417,7 @@ Package: tikz 2020/12/01 v3.1.7a (3.1.7a)
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
 es\pgflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@plot@mark@count=\count278
+\pgf@plot@mark@count=\count270
 \pgfplotmarksize=\dimen259
 )
 \tikz@lastx=\dimen260
@@ -648,23 +428,23 @@ File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \tikz@lastmovetoy=\dimen265
 \tikzleveldistance=\dimen266
 \tikzsiblingdistance=\dimen267
-\tikz@figbox=\box64
-\tikz@figbox@bg=\box65
-\tikz@tempbox=\box66
-\tikz@tempbox@bg=\box67
-\tikztreelevel=\count279
-\tikznumberofchildren=\count280
-\tikznumberofcurrentchild=\count281
-\tikz@fig@count=\count282
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count271
+\tikznumberofchildren=\count272
+\tikznumberofcurrentchild=\count273
+\tikz@fig@count=\count274
 
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
 \pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfmatrixcurrentrow=\count283
-\pgfmatrixcurrentcolumn=\count284
-\pgf@matrix@numberofcolumns=\count285
+\pgfmatrixcurrentrow=\count275
+\pgfmatrixcurrentcolumn=\count276
+\pgf@matrix@numberofcolumns=\count277
 )
-\tikz@expandcount=\count286
+\tikz@expandcount=\count278
 
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
 dlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
@@ -674,12 +454,12 @@ File: tikzlibrarytopaths.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 fplots.code.tex"
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
 fplotscore.code.tex"
-\t@pgfplots@toka=\toks30
-\t@pgfplots@tokb=\toks31
-\t@pgfplots@tokc=\toks32
+\t@pgfplots@toka=\toks29
+\t@pgfplots@tokb=\toks30
+\t@pgfplots@tokc=\toks31
 \pgfplots@tmpa=\dimen268
-\c@pgfplots@coordindex=\count287
-\c@pgfplots@scanlineindex=\count288
+\c@pgfplots@coordindex=\count279
+\c@pgfplots@scanlineindex=\count280
 
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sy
 s\pgfplotssysgeneric.code.tex"))
@@ -697,14 +477,14 @@ ststructure\pgfplotsliststructure.code.tex")
 ststructure\pgfplotsliststructureext.code.tex")
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
 ststructure\pgfplotsarray.code.tex"
-\c@pgfplotsarray@tmp=\count289
+\c@pgfplotsarray@tmp=\count281
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
 ststructure\pgfplotsmatrix.code.tex")
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/nu
 mtable\pgfplotstableshared.code.tex"
-\c@pgfplotstable@counta=\count290
-\t@pgfplotstable@a=\toks33
+\c@pgfplotstable@counta=\count282
+\t@pgfplotstable@a=\toks32
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
 ststructure\pgfplotsdeque.code.tex")
@@ -716,7 +496,7 @@ il\pgfplotsbinary.data.code.tex"))
 il\pgfplotsutil.verb.code.tex")
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
 bs\pgflibrarypgfplots.surfshading.code.tex"
-\c@pgfplotslibrarysurf@no=\count291
+\c@pgfplotslibrarysurf@no=\count283
 
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sy
 s\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def")))
@@ -753,11 +533,11 @@ dlayer/tikz/libraries\tikzlibrarydecorations.code.tex"
 \pgfdecoratedinputsegmentcompleteddistance=\dimen271
 \pgfdecoratedinputsegmentremainingdistance=\dimen272
 \pgf@decorate@distancetomove=\dimen273
-\pgf@decorate@repeatstate=\count292
+\pgf@decorate@repeatstate=\count284
 \pgfdecorationsegmentamplitude=\dimen274
 \pgfdecorationsegmentlength=\dimen275
 )
-\tikz@lib@dec@box=\box68
+\tikz@lib@dec@box=\box58
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
 dlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex"
@@ -767,7 +547,7 @@ es/decorations\pgflibrarydecorations.pathmorphing.code.tex"))
 dlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex"
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
 es/decorations\pgflibrarydecorations.pathreplacing.code.tex"))
-\pgfplots@numplots=\count293
+\pgfplots@numplots=\count285
 \pgfplots@xmin@reg=\dimen276
 \pgfplots@xmax@reg=\dimen277
 \pgfplots@ymin@reg=\dimen278
@@ -786,48 +566,89 @@ File: pgflibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/nu
 mtable\pgfplotstable.code.tex"
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/nu
-mtable\pgfplotstable.coltype.code.tex")))
-Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 12.
- ("Exercise 5.aux")
-\openout1 = `"Exercise 5.aux"'.
+mtable\pgfplotstable.coltype.code.tex"))
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.s
+ty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen282
+\ar@mcellbox=\box59
+\extrarowheight=\dimen283
+\NC@list=\toks33
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box60
+))
+("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count286
+\l__pdf_internal_box=\box61
+) (ClassProject2ex.aux)
+\openout1 = `ClassProject2ex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 
-("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/translations/
-dicts\translations-basic-dictionary-english.trsl"
-File: translations-basic-dictionary-english.trsl (english translation file `tra
-nslations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 12.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(81.94394pt, 433.62pt, 81.94394pt)
+* v-part:(T,H,B)=(-8.87726pt, 867.23999pt, -13.31589pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=433.62pt
+* \textheight=867.23999pt
+* \oddsidemargin=9.67395pt
+* \evensidemargin=9.67395pt
+* \topmargin=-118.14725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
 upp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count294
-\scratchdimen=\dimen282
-\scratchbox=\box69
-\nofMPsegments=\count295
-\nofMParguments=\count296
+\scratchcounter=\count287
+\scratchdimen=\dimen284
+\scratchbox=\box62
+\nofMPsegments=\count288
+\nofMParguments=\count289
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count297
-\MPscratchDim=\dimen283
-\MPnumerator=\count298
-\makeMPintoPDFobject=\count299
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen285
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks35
 )
 ("C:\Users\CLEMENT OBIEKE\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
@@ -840,29 +661,35 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
 your preamble.
- on input line 12.
+ on input line 6.
 
-PGFPlots: reading {table.csv}
+PGFPlots: reading {artists.csv}
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <7> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
-[1
+(Font)              <5> on input line 34.
 
-{C:/Users/CLEMENT OBIEKE/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-("Exercise 5.aux") ) 
+Overfull \hbox (13.9926pt too wide) in paragraph at lines 34--35
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 16.26578pt on input line 36.
+
+[1{C:/Users/CLEMENT OBIEKE/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(ClassProject2ex.aux) ) 
 Here is how much of TeX's memory you used:
- 26021 strings out of 479697
- 715220 string characters out of 2862819
- 1058669 words of memory out of 3000000
- 42750 multiletter control sequences out of 15000+200000
+ 22586 strings out of 479697
+ 611344 string characters out of 2862819
+ 1024137 words of memory out of 3000000
+ 39351 multiletter control sequences out of 15000+200000
  403430 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,11n,111p,712b,856s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/CLEMENT OBIEKE/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/CLEMENT OBIEKE/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on "Exercise 5.pdf" (1 page, 25383 bytes).
+ 108i,9n,111p,715b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/CLEMENT OBIEKE/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/CLEMENT OBIEKE/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on ClassProject2ex.pdf (1 page, 36912 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

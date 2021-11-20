@@ -1,0 +1,54 @@
+\documentclass[12pt]{article}
+\usepackage[fleqn]{amsmath}
+\usepackage[a4paper,total={6in, 12in}]{geometry}
+
+\title{Cardano's Formula for Cubic Equations}
+\author{Clement Obieke}
+
+
+\begin{document}
+	\maketitle
+	
+\centering	\textbf{\large Abstract}
+			\paragraph{}
+			Gerolamo Cardano was born in Pavia in 1501 as the illegitimate child of a jurist. He attended the University of Padua and became a physician in the town of Sacco, afrer being rejectd by his home town Milan. He became one of the most famous doctors in all of Europe, having treated the Popr. He was also an astrologer and an avid gamler, to which he wrote the Book on Games of Chance, Which was the first serious treatise on the mathematics of probability~\cite{Cardano.S}.
+
+\raggedright
+\section{Introduction to Cardano's Formula}
+
+	Cardano's formula for solution of cubic equations for an equation like;\\
+	\begin{equation*}
+		x^{3} + a_{1}x^{3} +a_{2}x^{2}+a_{3} = 0
+	\end{equation*}
+	the parameters  Q,R,S and T can be computed as thus,\\
+	\begin{minipage}{0.4\linewidth}
+			\begin{align*}
+			Q=\dfrac{3a_{2}-(a_{1})^{2}}{a}\\
+			S=\sqrt[3]{R+(\sqrt{-Q^{3}+R^{2}})}
+	 		\end{align*}
+ 	\end{minipage}
+ 	\begin{minipage}{0.4\linewidth}
+ 	\begin{align*}
+ 		R=\dfrac{9a_{1}a_{d}-27a_{3}-2(a_{1}^{3})}{54}\\ 
+ 		T=\sqrt[3]{R-(\sqrt{Q^{3}+R^{2}})}
+ 	\end{align*}
+	 \end{minipage}\\
+ 	to give the roots;\\
+ 	
+
+ 	\begin{align*} 		
+ 		x_{1}&=S+T-\frac{1}{3}a_{1}\\
+ 		x_{2}&=\frac{-(S+T)}{2}-\dfrac{a_{1}}{3}+i\dfrac{\sqrt{3}(s-T)}{2} \\  
+ 		x_{3}&=\frac{-(S+T)}{2}-\dfrac{a_{1}}{3}-i\dfrac{\sqrt{3}(s-T)}{2} 
+ 	\end{align*}\\
+  Note: x$^{3}$ must not have a co-efficeint.
+
+ \subsection{some Examples}
+
+ 	\begin{align*}
+ 		x^{3}-3x^{2}+4 =0\\
+ 		2x^{3}+6x^{2}+1=0
+ 	\end{align*}\\
+ \bibliography{ref}
+ \bibliographystyle{ieeetr}
+\end{document}
