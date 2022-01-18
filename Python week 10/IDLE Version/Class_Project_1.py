@@ -17,5 +17,5 @@ input("Now im going to swap ages")
 print(name1,"is", age2,"years old")
 print(name2,"is", age1,"years old")
 
-input("press ant key to exit...")
+input("press any key to exit...")
 

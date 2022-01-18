@@ -14,4 +14,4 @@ z = x**(n*t)
 A = P * z
 #output
 print("Your total amount is",A,"with",A-P,"as your interest")
-input("press ant key to continue...")
+input("press any key to continue...")

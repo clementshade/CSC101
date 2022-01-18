@@ -12,4 +12,4 @@ print("Amount is", A)
 SI = A- P
 print ("Simple Interest is", SI)
 
-input("press ant key to exit...")
+input("press any key to exit...")

@@ -18,4 +18,4 @@ z=PMT * y
 A = z
 
 print("Your total amount is",A,"with",A-PMT,"as your interest")
-input("press ant key to continue")
+input("press any key to continue")
